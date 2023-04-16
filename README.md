@@ -36,28 +36,25 @@ The content of each lesson will become available each week as a PDF document via
 
 https://github.com/robvdw/CMIDAT01K-DATA-SCIENCE-for-IOT/tree/master/Lessons
 
-Locatie: Wijnhaven 103/105   lokaal:WD 00.034
+Locatie: Wijnhaven 103/105  
 
 START dinsdag 14 februari 2023
 
-| lesson  | week OP3 | content
-| ------------- | ------------- | ------------- |
-Lesson 01 |  week 02	| Discovering the IoT Data Science Domain 
-Lesson 02 |  week 04 	| Defining project requirements 
-Lesson 03 |  week 05 	| Learn to write code
-Lesson 04 |  week 06 	| Data Science: How to start your own IoT Project
-Lesson 05 |  week 07 	| IoT Platforms & MiddleWare
-Lesson 06 |  week 08 	| Core IoT Concepts + setting-up your IoT-device
-Lesson 07 |  week 09 	| Explaining Grading + Summary + Q & A
---------- |  week 08/09 	| Self study & Project Completion
+| lesson  |  content
+| ------------- |  ------------- |
+Lesson 01 | Discovering the IoT Data Science Domain 
+Lesson 02 | Defining project requirements 
+Lesson 03 | Learn to write code
+Lesson 04 | Data Science: How to start your own IoT Project
+Lesson 05 | IoT Platforms & MiddleWare
+Lesson 06 | Core IoT Concepts + setting-up your IoT-device
+Lesson 07 | Explaining Grading + Summary + Q & A
 
 # Delivearbles & Deadline
 * A working prototype that includes software (code), hardware and electronics elements.
 * Code (commented) for the application
 * Documentation of the project (contributed to a personal GitHub Repository).
 * An online demo (video or IoT Platform implementation) of the completed IoT data-pipeline/project.
-
-__DEADLINE ===> week 10 OP03  (vrijdag 21 april 2023) collegejaar 2022-2023 <====__
 
 # Grading
 This course wil be graded according to the rules and defintions as oulined in: 
